@@ -113,3 +113,57 @@ button div {
 	font-weight: normal;
 	src: url("https://assets.codepen.io/240751/Aspekta-300.woff2") format("woff2");
 }
+
+h1 {
+    position: fixed;
+    left: 100px;
+    top: 300px;
+    font-size: 70px;
+}
+
+h2 {
+    position: fixed;
+    left: 100px;
+    top: 420px;
+
+}
+
+.paragraphs1 {
+    position: fixed;
+    left: 100px;
+    top: 600px;
+
+}
+
+
+
+button {
+    position: fixed;
+    left: 100px;
+    top: 490px;
+}
+
+.comment {
+    position: fixed;
+    left: 100px;
+    top: 630px;
+}
+
+.paragraphs2 {
+    position: fixed;
+    left: 100px;
+    top: 660px;
+}
+
+ul {
+    position: fixed;
+    right: 300px;
+    top: 590px;
+}
+
+img {
+    position: fixed;
+    right: 300px;
+    top: 150px;
+    width: 30%;
+}
