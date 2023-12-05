@@ -175,19 +175,19 @@ img {
 
 .bilibili {
     position: fixed;
-    left: 20%;
+    left: 6%;
     bottom: 1%;
 }
 
 .youtube {
     position: fixed;
-    left: 48%;
+    left: 27%;
     bottom: 1%;
 }
 
 #collect {
     position: fixed;
-    right: 2%;
+    right: 6%;
     bottom: 2%;
 }
 
