@@ -116,49 +116,47 @@ button div {
 
 h1 {
     position: fixed;
-    left: 100px;
-    top: 300px;
-    font-size: 70px;
+    left: 6%;
+    top: 27%;
+    font-size: 700%;
 }
 
 h2 {
     position: fixed;
-    left: 100px;
-    top: 420px;
+    left: 6%;
+    top: 53%;
 
 }
 
 .paragraphs1 {
     position: fixed;
-    left: 100px;
-    top: 600px;
+    left: 6%;
+    top: 79%;
 
 }
 
-
-
 button {
     position: fixed;
-    left: 100px;
-    top: 490px;
+    left: 6%;
+    top: 62%;
 }
 
 .comment {
     position: fixed;
-    left: 100px;
-    top: 630px;
+    left: 8%;
+    top: 82%;
 }
 
 .paragraphs2 {
     position: fixed;
-    left: 100px;
-    top: 660px;
+    left: 6%;
+    top: 86%;
 }
 
 ul {
     position: fixed;
-    right: 300px;
-    top: 590px;
+    right: 6%;
+    top: 71%;
 }
 
 img {
@@ -166,4 +164,22 @@ img {
     right: 300px;
     top: 150px;
     width: 30%;
+}
+
+.bilibili {
+    position: fixed;
+    left: 20%;
+    bottom: 1%;
+}
+
+.youtube {
+    position: fixed;
+    left: 48%;
+    bottom: 1%;
+}
+
+#collect {
+    position: fixed;
+    right: 2%;
+    bottom: 2%;
 }
