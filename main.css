@@ -114,6 +114,10 @@ button div {
 	src: url("https://assets.codepen.io/240751/Aspekta-300.woff2") format("woff2");
 }
 
+a {
+    color: rgb(194, 61, 231)
+}
+
 @media screen and (min-width: 1080px) {
     
 
