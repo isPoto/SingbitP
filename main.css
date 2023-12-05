@@ -191,4 +191,10 @@ img {
     bottom: 2%;
 }
 
+#singbit {
+    position: fixed;
+    left: 50%;
+    bottom: 1%;
+}
+
 }
