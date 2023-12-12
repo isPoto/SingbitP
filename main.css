@@ -118,6 +118,14 @@ a {
     color: rgb(194, 61, 231)
 }
 
+a:hover {
+	color: rgb(0, 255, 238);
+}
+
+a:link {
+	text-decoration: none;
+}
+
 @media screen and (min-width: 1100px) {
     
 
